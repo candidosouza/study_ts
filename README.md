@@ -1,2 +1,1 @@
-# study_ts
-Estudos sobre TypeScript
+# Estudos sobre TypeScript
